@@ -1,0 +1,8 @@
+-- import: fpm
+
+-- fpm.package: arpita-jaiswal.github.io/tutorial-app
+zip: github.com/arpita-jaiswal/tutorial-app/archive/refs/heads/main.zip
+
+-- fpm.dependency: fifthtry.github.io/doc-site as ds
+
+-- fpm.auto-import: ds
